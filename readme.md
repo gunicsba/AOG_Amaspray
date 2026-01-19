@@ -2,7 +2,12 @@ What is this?
 
 A flexPCB for Amaspray+ that allows sections to be controlled over I2C from AgOpenGPS.
 
+![PCB installed](images/20260119_084207.jpg)
+
 Currently it works over UDP and requires an Arduino Nano + Ethernet header.
+
+![Nano installed](images/20260118_232100.jpg)
+
 
 TODO: 
  + Split the BOM so we could order 5-7-9 section versions?
